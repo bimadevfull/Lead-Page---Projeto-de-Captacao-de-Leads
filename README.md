@@ -4,7 +4,7 @@ Uma landing page moderna e profissional desenvolvida em HTML, CSS e JavaScript p
 
 ## Visualizacao
 
-![Preview](https://via.placeholder.com/800x400/2563eb/ffffff?text=Lead+Page+Preview)
+![Preview](WhatsApp Image 2026-01-18 at 16.35.54.jpeg)
 
 ## Caracteristicas
 
